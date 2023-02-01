@@ -1,5 +1,5 @@
 {
-  "name": "fontkit",
+  "name": "@yisibl/fontkit",
   "version": "2.0.2",
   "description": "An advanced font engine for Node and the browser",
   "keywords": [
